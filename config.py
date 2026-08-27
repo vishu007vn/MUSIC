@@ -53,8 +53,8 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 9. YouTube API (for fallback)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-YTPROXY_URL = os.getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com')
-YT_API_KEY = os.getenv("YT_API_KEY", 'xbit_GjLUhA7Xsu_5Dr_xBdFZLr8LzorcKIkK')
+YTPROXY_URL = os.getenv("YTPROXY_URL", 'https://api01.shrutibots.site')
+YT_API_KEY = os.getenv("YT_API_KEY", 'ShrutiBotsTUOhRD5u1C8vTXPfFZys')
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 10. Cache Channel (where bot stores audio/video files)
