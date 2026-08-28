@@ -27,7 +27,7 @@ async def chat_gpt(bot, message):
                 response_time = round((end_time - start_time) * 1000, 3)
 
                 return await message.reply_text(
-                    f"**🤖 ChatGPT Response:**\n\n{answer}\n\n⏳ Response Time: `{response_time} ms`\n\n_Answered by https://t.me/ALL_QUIZ_TAME",
+                    f"**🤖 ChatGPT Response:**\n\n{answer}\n\n⏳ Response Time: `{response_time} ms`\n\n_Answered by https://t.me/Bindas_life0",
                     parse_mode=ParseMode.MARKDOWN
                 )
             else:
