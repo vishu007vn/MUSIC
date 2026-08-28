@@ -46,7 +46,7 @@ HEROKU_API_KEY = os.getenv("HEROKU_API_KEY", "")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 8. Upstream Repo (for updates)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/BWFTIME/L2RMUSIC")
+UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/GOD-FATHER-papa/MUSIC")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
@@ -65,8 +65,8 @@ CACHE_CHANNEL_ID = int(os.getenv("CACHE_CHANNEL_ID", "-1004304730954"))
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 11. Support Channel & Group (for /start buttons)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ALL_QUIZ_TAME")
-SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", "https://t.me/BWF_MUSIC1")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Bindas_life0")
+SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", "https://t.me/Tabahi_update_bot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 12. Auto‑leave settings
