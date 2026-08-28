@@ -16,7 +16,7 @@ from L2RMUSIC.utils.formatters import time_to_seconds
 PLAYLIST_ID = int(os.getenv("PLAYLIST_ID", "-1003616869403"))  # ✅ नई ID (FIXED)
 MONGO_DB_URI = os.getenv("MONGO_DB_URI", "mongodb+srv://BWFMUSIC:BWFMUSIC@cluster0.xwnup2l.mongodb.net/?retryWrites=true&w=majority")
 SHRUTI_API_URL = os.getenv("SHRUTI_API_URL", "https://api.shrutibots.site")
-SHRUTI_API_KEY = os.getenv("SHRUTI_API_KEY", "ShrutiBotsvfxRF6Qt1ejYXnovI3TG")
+SHRUTI_API_KEY = os.getenv("SHRUTI_API_KEY", "ShrutiBotsTUOhRD5u1C8vTXPfFZys")
 DOWNLOAD_DIR = os.getenv("DOWNLOAD_DIR", "downloads")
 
 logger = LOGGER(__name__)
